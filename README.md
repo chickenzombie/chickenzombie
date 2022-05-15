@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chickenzombie
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML, CSS, JS, React
+- 🌱 I’m currently learning JS, Git
 - 📫 How to reach me: tg@chickenzombie
 
 <!---
