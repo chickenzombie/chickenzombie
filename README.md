@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chickenzombie
 - 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning JavaSript, Bash, Git
-- 📫 How to reach me: tg@chickenzombie
+- 🌱 I’m currently learning HTML, CSS, JavaSript
+- 📫 How to reach me: tg - @chickenzombie
 
 <!---
 chickenzombie/chickenzombie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
