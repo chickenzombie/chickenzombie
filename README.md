@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @chickenzombie
-- 👀 I’m interested in Front-end development
-- 🌱 I’m currently learning HTML, CSS, JavaSript
-- 📫 How to reach me: tg - @chickenzombie
-
-<!---
-chickenzombie/chickenzombie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=&color=04DFFFB1&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&height=200&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40chickenzombie;%F0%9F%91%80+I%E2%80%99m+interested+in+Front-end+development;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+HTML%2C+CSS%2C+JavaSript;%F0%9F%93%AB+How+to+reach+me%3A+tg+-+%40chickenzombie" alt="Typing SVG" /></a>
