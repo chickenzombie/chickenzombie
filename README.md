@@ -5,7 +5,7 @@
 ## Мои навыки:
 
 - Тестирование: функциональное, нефункциональное, регрессионное, интеграционное, end-to-end, визуальное, интернационализация и локализация, кросс-платформенное и кросс-браузерное, API тестирование. ✅
-- Инструменты 🛠: 
+- Инструменты: 
   ![DevTools](https://img.shields.io/badge/DevTools-00BFFF?style=flat-square&logo=googlechrome&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FBAE17?style=flat-square&logo=postman&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
@@ -14,7 +14,7 @@
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
   ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF5A5F?style=flat-square&logo=browserstack&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 🛠
 - Языки: HTML, CSS, JavaScript. 🌐
 - Автоматизация: уже работал с Cypress, создавая и поддерживая автоматизированные тесты. ⚙️
 
