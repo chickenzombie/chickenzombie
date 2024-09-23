@@ -1,40 +1,42 @@
-# Привет!👋 
+# Привет!👋
 
-Меня зовут Рустэм.
-Я - QA инженер с опытом в тестировании веб-сайтов, мобильных приложений, Telegram ботов и мини-приложений.
-Моя цель — стать Automation QA и углубить свои знания в автоматизации тестирования.
+Меня зовут **Рустэм**, и я QA-инженер с опытом тестирования веб-приложений, мобильных приложений и ботов, а также с амбициями стать **Automation QA**.  
+Сейчас активно изучаю **Cypress** и автоматизацию тестирования.
 
-## Мои навыки:
+## 🚀 О моем пути:
+- Начал свою карьеру как **Manual QA**, и постепенно углубляюсь в автоматизацию.
+- Работаю над проектом [**cypressTestsApp**](https://github.com/chickenzombie/cypressTestsApp) — пет-проект для практики в написании автотестов с Cypress.
+- В свободное время совершенствую навыки автоматизации и изучаю новые инструменты для тестирования.
 
-- Тестирование: функциональное, нефункциональное, регрессионное, интеграционное, end-to-end, визуальное, интернационализация и локализация, кросс-платформенное и кросс-браузерное, API тестирование.✅
-- Инструменты: 
-  ![DevTools](https://img.shields.io/badge/DevTools-00BFFF?style=flat-square&logo=googlechrome&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FBAE17?style=flat-square&logo=postman&logoColor=white)
+## 🛠️ Навыки и инструменты:
+- **Тестирование**: функциональное, нефункциональное, smoke, регрессионное, e2e, интеграционное, кросс-платформенное, кросс-браузерное, тестирование через API
+- **Технологии**: HTML, CSS, JavaScript
+- **Инструменты**:
   ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+  ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF7F00?logo=browserstack&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-  ![BrowserStack](https://img.shields.io/badge/BrowserStack-FF5A5F?style=flat-square&logo=browserstack&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)🛠
-- Языки: HTML, CSS, JavaScript.🌐
-- Автоматизация: уже работал с Cypress, создавая и поддерживая автоматизированные тесты.⚙️
+  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
-## Проекты:
+- **Ведение документации**: написание тест-кейсов, чеклистов, баг-репортов (Notion Bug Tracker)
+- **Командная работа**: опыт взаимодействия с разработчиками, продакт менеджерами и дизайнерами
 
-- [cypressTestApp](https://github.com/chickenzombie/cypressTestsApp): Изучаю автоматизацию тестирования с помощью Cypress. Работаю над созданием тестов для пет-проекта.🐶
+## 📚 Текущие цели:
+- Стать **Automation QA** и углубиться в создание автотестов с помощью Cypress.
+- Написать и автоматизировать тесты для различных типов приложений.
+- Продолжить развитие в области автоматизации и изучение CI/CD.
 
-## Цели:
-
-- Углубить знания в автоматизации тестирования.🎯
-- Создать план обучения для автоматизации тестирования.📚
-- Освоить новые фреймворки и инструменты.🔍
-
-## Контакты:
-
-- [LinkedIn](https://www.linkedin.com/in/rustem-davletov/)🌟
-- [Telegram](https://t.me/rustyman1337)📲
-
+## 📫 Как со мной связаться:
+- LinkedIn: [Ваш LinkedIn](https://www.linkedin.com/in/rustem-davletov/)
+- Telegram: [Ваш Telegram](https://t.me/rustyman1337)
+- Email: rustemdavletov7@gmail.com
+  
 Если у тебя есть вопросы или ты хочешь обсудить совместные проекты, то напиши мне - обязательно обсудим!🤝
+
 
 
