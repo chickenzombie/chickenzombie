@@ -34,7 +34,7 @@
 ## 📫 Как со мной связаться:
 - [LinkedIn](https://www.linkedin.com/in/rustem-davletov/)
 - [Telegram](https://t.me/rustyman1337)
-- [Email](rustemdavletov7@gmail.com)
+- [Email]: rustemdavletov7@gmail.com
   
 Если у тебя есть вопросы или ты хочешь обсудить совместные проекты, то напиши мне - обязательно обсудим!🤝
 
