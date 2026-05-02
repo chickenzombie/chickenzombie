@@ -5,15 +5,14 @@
 
 ## 🚀 О моем пути:
 - Начал свою карьеру как **Manual QA**, и постепенно углубляюсь в автоматизацию.
-- Использую ИИ-агентов при разработке. Как пример: [**Energy Rush**](https://github.com/chickenzombie/cypressTestsApp](https://chickenzombie.github.io/energy-rush/) — лендинг с описанием самых популярных энергетических напитков в мире.
-- В свободное время совершенствую навыки автоматизации и изучаю новые инструменты для тестирования.
+- Использую ИИ-агентов при разработке. Как пример: [**Energy Rush**]([https://chickenzombie.github.io/energy-rush/]) — лендинг с описанием самых популярных энергетических напитков в мире.
+- В свободное время совершенствую навыки автоматизации и изучаю новые ИИ-инструменты для тестирования.
 
 ## 🛠️ Навыки и инструменты:
 - **Тестирование**: функциональное, нефункциональное, smoke, регрессионное, e2e, интеграционное, кросс-платформенное, кросс-браузерное, тестирование через API
 - **Технологии**: HTML, CSS, JavaScript/TypeScript
-- **<br>Инструменты<br>**:<br>
-
-  **IDE и редакторы**:<br>
+- **Инструменты<br>**:
+  **IDE и редакторы**:
   ![Zed IDE](https://img.shields.io/badge/Zed%20IDE-3C4CAD?style=flat-square&logo=zedindustries&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
@@ -47,7 +46,7 @@
 ## 📫 Как со мной связаться:
 - [LinkedIn](https://www.linkedin.com/in/rustem-davletov/)
 - [Telegram](https://t.me/rustyman1337)
-- Email: rustemdavletov7@gmail.com
+- rustemdavletov7@gmail.com
   
 Если у тебя есть вопросы или ты хочешь обсудить совместные проекты, то напиши мне - обязательно обсудим!🤝
 
