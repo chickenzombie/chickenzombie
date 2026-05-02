@@ -11,18 +11,18 @@
 ## 🛠️ Навыки и инструменты:
 - **Тестирование**: функциональное, нефункциональное, smoke, регрессионное, e2e, интеграционное, кросс-платформенное, кросс-браузерное, тестирование через API
 - **Технологии**: HTML, CSS, JavaScript/TypeScript
-- **<br>Инструменты<br>**:<br>
+- **Инструменты**:
 
-  **IDE и редакторы**:<br>
+  **IDE и редакторы:**  
   ![Zed IDE](https://img.shields.io/badge/Zed%20IDE-3C4CAD?style=flat-square&logo=zedindustries&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 
-  <br>**AI-инструменты**:<br>
+  **AI-инструменты:**  
   ![Claude](https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white)
   ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlebard&logoColor=white)
 
-  <br>**Инструменты для тестирования**:<br>
+  **Инструменты для тестирования:**  
   ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
   ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
@@ -31,7 +31,7 @@
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
-  <br>**Прочее**:<br>
+  **Прочее:**  
   ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
