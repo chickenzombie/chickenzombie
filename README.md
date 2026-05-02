@@ -5,14 +5,15 @@
 
 ## 🚀 О моем пути:
 - Начал свою карьеру как **Manual QA**, и постепенно углубляюсь в автоматизацию.
-- Использую ИИ-агентов при разработке. Как пример: [**Energy Rush**]([https://chickenzombie.github.io/energy-rush/]) — лендинг с описанием самых популярных энергетических напитков в мире.
+- Использую ИИ-агентов при разработке. Как пример: [**Energy Rush**](https://chickenzombie.github.io/energy-rush/) — лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ-инструментов.
 - В свободное время совершенствую навыки автоматизации и изучаю новые ИИ-инструменты для тестирования.
 
 ## 🛠️ Навыки и инструменты:
 - **Тестирование**: функциональное, нефункциональное, smoke, регрессионное, e2e, интеграционное, кросс-платформенное, кросс-браузерное, тестирование через API
 - **Технологии**: HTML, CSS, JavaScript/TypeScript
-- **Инструменты<br>**:
-  **IDE и редакторы**:
+- **<br>Инструменты<br>**:<br>
+
+  **IDE и редакторы**:<br>
   ![Zed IDE](https://img.shields.io/badge/Zed%20IDE-3C4CAD?style=flat-square&logo=zedindustries&logoColor=white)
   ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
