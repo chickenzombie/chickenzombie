@@ -10,16 +10,38 @@
 
 ## 📂 Проекты:
 
+### 🤖 Автоматизация тестирования
+
+**[rutube-playwright-tests](https://github.com/chickenzombie/rutube-playwright-tests)** · TypeScript  
+Автотесты для сайта rutube.ru на фреймворке Playwright.
+
+**[my-playwright-tests](https://github.com/chickenzombie/my-playwright-tests)** · TypeScript  
+Мои автотесты на Playwright.
+
+**[playwright-pageObjectModel](https://github.com/chickenzombie/playwright-pageObjectModel)** · JavaScript  
+Использование Page Object Model в Playwright.
+
+**[cypressTestsApp](https://github.com/chickenzombie/cypressTestsApp)** · JavaScript  
+Пет-проект с автотестами на Cypress.
+
+**[test-task-arenadata](https://github.com/chickenzombie/test-task-arenadata)** · JavaScript  
+Решение тестового задания на позицию Junior QA Automation.
+
+### 🌐 Веб
+
 **[Book Notes](https://chickenzombie.github.io/book-notes/)** · *в активной разработке*  
 Визуальные конспекты прочитанных книг по тестированию и разработке. Одна страница на книгу: поиск по всем пунктам, фильтр по разделам, светлая и тёмная темы, у каждой книги своё оформление. Статика без сборки и зависимостей — читается даже с выключенным JS.
 
 **[Energy Rush](https://chickenzombie.github.io/energy-rush/)**  
 Лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ‑инструментов.
 
+**[Башкортостан](https://chickenzombie.github.io/bashkortostan/)**  
+Лендинг с описанием мест Республики Башкортостан.
+
 ## 📊 GitHub:
 
 <p>
-  <img alt="Профиль на GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chickenzombie&theme=github" />
+  <img alt="Профиль на GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chickenzombie&theme=github&name=chickenzombie" />
 </p>
 
 <p>
