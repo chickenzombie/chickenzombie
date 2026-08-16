@@ -1,40 +1,54 @@
 # Привет!👋
 
+```
+Average Web-development | QA | LLM & AI-Agents enjoyer  ( ͡° ͜ʖ ͡°)
+```
+
 Меня зовут **Рустэм**, я QA-инженер с опытом тестирования веб и мобильных приложений, телеграм-ботов и мини аппок. Сейчас развиваюсь в сторону **Automation QA**: активно изучаю **Playwright** и автоматизацию тестирования.
 
 ## 🚀 О моем пути:
 - Начал карьеру как **Manual QA** и постепенно перешел к задачам, связанным с автоматизацией.
-- Использую ИИ‑агентов при разработке. Как пример: [**Energy Rush**](https://chickenzombie.github.io/energy-rush/) — лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ‑инструментов.
+- Сейчас разрабатываю [**Book Notes**](https://chickenzombie.github.io/book-notes/) — визуальные конспекты прочитанных книг по тестированию и разработке. Проект живой: полка пополняется по мере чтения.
+- Использую ИИ‑агентов при разработке: ставлю задачу, разбираю результат и довожу до рабочего вида.
 - В свободное время прокачиваю навыки автоматизации и тестирования, экспериментирую с новыми ИИ‑инструментами.
+
+## 📂 Проекты:
+
+**[Book Notes](https://chickenzombie.github.io/book-notes/)** · *в активной разработке*  
+Визуальные конспекты прочитанных книг по тестированию и разработке. Одна страница на книгу: поиск по всем пунктам, фильтр по разделам, светлая и тёмная темы, у каждой книги своё оформление. Статика без сборки и зависимостей — читается даже с выключенным JS.
+
+**[Energy Rush](https://chickenzombie.github.io/energy-rush/)**  
+Лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ‑инструментов.
+
+## 📊 GitHub:
+
+<p>
+  <img alt="Профиль на GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chickenzombie&theme=github" />
+</p>
+
+<p>
+  <img height="180" alt="Языки по репозиториям" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chickenzombie&theme=github" />
+  <img height="180" alt="Языки по коммитам" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chickenzombie&theme=github" />
+</p>
+
+<p>
+  <img alt="Активность за год" src="https://github-readme-activity-graph.vercel.app/graph?username=chickenzombie&hide_border=true&area=true&theme=github-compact" />
+</p>
 
 ## 🛠️ Навыки и инструменты:
 - **Тестирование**: функциональное и нефункциональное, smoke и регрессионное, e2e и интеграционное, кросс‑платформенное и кросс‑браузерное, тестирование через API
 - **Технологии**: HTML, CSS, JavaScript/TypeScript
-- **Инструменты**:
+- **Основные инструменты**:
 
-  **IDE и редакторы:**  
-  ![Zed IDE](https://img.shields.io/badge/Zed%20IDE-3C4CAD?style=flat-square&logo=zedindustries&logoColor=white)
-  ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
-
-  **AI-инструменты:**  
-  ![Claude](https://img.shields.io/badge/Claude-111827?style=flat-square&logo=anthropic&logoColor=white)
-  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlebard&logoColor=white)
-
-  **Инструменты для тестирования:**  
-  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
   ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square)
+  ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=flat-square)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
-  ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
+  ![Apache JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)
   ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF7F00?logo=browserstack&logoColor=white&style=flat-square)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
-
-  **Прочее:**  
-  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
+- **Ещё в работе**: Android Studio и Firebase — для мобильных; Claude и Gemini — как ИИ‑напарники; Zed, Cursor и VSCode — редакторы; Notion и Figma — документация и макеты
 - **Ведение документации**: написание тест-кейсов, чек-листов, баг-репортов (Notion Bug Tracker)
 - **Командная работа**: опыт взаимодействия с разработчиками, продакт менеджерами и дизайнерами
 
@@ -42,6 +56,7 @@
 - Стать **Automation QA** и углубиться в создание автотестов с помощью Playwright.
 - Написать и автоматизировать тесты для различных типов приложений.
 - Продолжить развитие в области автоматизации и изучение CI/CD.
+- Развивать автоматизацию и разработку с помощью **ИИ‑агентов**: доводить их результат до рабочего, а не останавливаться на демке.
 
 ## 📫 Как со мной связаться:
 - [LinkedIn](https://www.linkedin.com/in/rustem-davletov/)
@@ -49,6 +64,3 @@
 - rustemdavletov7@gmail.com
   
 Если у тебя есть вопросы или ты хочешь обсудить совместные проекты — напиши, буду рад пообщаться. 🤝
-
-
-
