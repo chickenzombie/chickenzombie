@@ -10,6 +10,17 @@
 
 ## 📂 Проекты:
 
+### 🌐 Веб
+
+**[Book Notes](https://chickenzombie.github.io/book-notes/)** · *в активной разработке*  
+Визуальные конспекты прочитанных книг по тестированию и разработке. Одна страница на книгу: поиск по всем пунктам, фильтр по разделам, светлая и тёмная темы, у каждой книги своё оформление. Статика без сборки и зависимостей — читается даже с выключенным JS.
+
+**[Energy Rush](https://chickenzombie.github.io/energy-rush/)**  
+Лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ‑инструментов.
+
+**[Башкортостан](https://chickenzombie.github.io/bashkortostan/)**  
+Лендинг с описанием мест Республики Башкортостан.
+
 ### 🤖 Автоматизация тестирования
 
 **[rutube-playwright-tests](https://github.com/chickenzombie/rutube-playwright-tests)** · TypeScript  
@@ -26,17 +37,6 @@
 
 **[test-task-arenadata](https://github.com/chickenzombie/test-task-arenadata)** · JavaScript  
 Решение тестового задания на позицию Junior QA Automation.
-
-### 🌐 Веб
-
-**[Book Notes](https://chickenzombie.github.io/book-notes/)** · *в активной разработке*  
-Визуальные конспекты прочитанных книг по тестированию и разработке. Одна страница на книгу: поиск по всем пунктам, фильтр по разделам, светлая и тёмная темы, у каждой книги своё оформление. Статика без сборки и зависимостей — читается даже с выключенным JS.
-
-**[Energy Rush](https://chickenzombie.github.io/energy-rush/)**  
-Лендинг с описанием популярных энергетических напитков, сделанный с помощью ИИ‑инструментов.
-
-**[Башкортостан](https://chickenzombie.github.io/bashkortostan/)**  
-Лендинг с описанием мест Республики Башкортостан.
 
 ## 📊 GitHub:
 
@@ -66,7 +66,7 @@
   ![BrowserStack](https://img.shields.io/badge/-BrowserStack-FF7F00?logo=browserstack&logoColor=white&style=flat-square)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 
-- **Ещё в работе**: Android Studio и Firebase — для мобильных; Claude и Gemini — как ИИ‑напарники; Zed, Cursor и VSCode — редакторы; Notion и Figma — документация и макеты
+- **Ещё в работе**: Android Studio и Firebase — для мобильных; Claude, ChatGPT и Gemini — как ИИ‑напарники; Zed, Cursor и VSCode — редакторы; Notion и Figma — документация и макеты
 - **Ведение документации**: написание тест-кейсов, чек-листов, баг-репортов (Notion Bug Tracker)
 - **Командная работа**: опыт взаимодействия с разработчиками, продакт менеджерами и дизайнерами
 
